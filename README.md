@@ -1,50 +1,50 @@
-# 🌡️ Raspberry Pi MQTT Temperature Monitoring System
+# 👋 Hey there, I'm Vivekitha! 🚀  
 
-## 📌 Overview
-This project implements a real-time IoT-based temperature monitoring system using Raspberry Pi, MQTT, and Node-RED.
+![Profile Views](https://komarev.com/ghpvc/?username=vivekitha)
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekitha&show_icons=true)
 
-## ⚙️ Architecture
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekitha)
 
-Sensor → Raspberry Pi → MQTT Broker → Node-RED Dashboard
 
----
-
-## 🔧 Features
-
-- Real-time temperature acquisition  
-- MQTT communication  
-- Live dashboard visualization  
-- Continuous data streaming  
+Welcome to my GitHub profile!  
+I build **real-time embedded systems and IoT applications**.
 
 ---
 
-## 🛠️ Hardware
+## 🛠️ Skills & Expertise  
 
-- Raspberry Pi  
-- Temperature Sensor (DHT11/DHT22)
-
----
-
-## 💻 Software
-
+### 💻 Programming Languages  
+- C / Embedded C  
 - Python  
-- Mosquitto MQTT  
+
+### ⚙️ Embedded Systems  
+- STM32  
+- RTOS  
+- Interrupts, DMA  
+
+### 🌐 IoT  
+- Raspberry Pi  
+- MQTT  
 - Node-RED  
 
 ---
 
-## 📊 Output
+## 🚀 What I’m Working On  
 
-- Live temperature graph  
-- Real-time monitoring dashboard  
+- STM32 ADC + DMA  
+- FreeRTOS Projects  
+- IoT Systems  
 
 ---
 
-## 🎯 Key Learning
+## 📫 Connect  
 
-- IoT system design  
-- MQTT protocol  
-- Edge computing  
-- Real-time data flow  
+- 📧 vivekitha1000@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/vivekitha-velusamy-9a0591a3/  
+
+---
+
+## ⚡ Fun Line  
+
+> I build systems that work in real-time — not just code that compiles.
