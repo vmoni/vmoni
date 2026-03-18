@@ -1,44 +1,48 @@
-# 👋 Hey there, I'm Vivekitha! 🚀  
+# 👋 Hi, I'm Vivekitha Velusamy
 
-🚀 Embedded Systems | STM32 | IoT | RTOS
-Welcome to my GitHub profile!  
-I build **real-time embedded systems and IoT applications**.
+🚀 Embedded Systems Engineer | STM32 | RTOS | IoT  
 
 ---
 
-## 🛠️ Skills & Expertise  
+## 💡 About Me
 
-### 💻 Programming Languages  
+I design and develop **real-time embedded systems and IoT applications**, with a focus on reliable, efficient, and system-level solutions.
+
+---
+
+## 🛠️ Skills & Expertise
+
+### 💻 Programming
 - C / Embedded C  
 - Python  
 
-### ⚙️ Embedded Systems  
-- STM32  
-- RTOS  
-- Interrupts, DMA  
+### ⚙️ Embedded Systems
+- STM32 Microcontrollers  
+- Real-Time Operating Systems (RTOS)  
+- Interrupts and DMA  
 
-### 🌐 IoT  
+### 🌐 IoT & Edge Systems
 - Raspberry Pi  
-- MQTT  
+- MQTT Protocol  
 - Node-RED  
 
 ---
 
-## 🚀 What I’m Working On  
+## 🚀 Current Focus
 
-- STM32 ADC + DMA  
-- FreeRTOS Projects  
-- IoT Systems  
+- STM32 ADC with DMA (real-time data acquisition)  
+- FreeRTOS-based system design  
+- End-to-end IoT system development  
 
 ---
 
-## 📫 Connect  
+## 📫 Connect With Me
 
-- 📧 vivekitha1000@gmail.com  
+- 📧 Email: vivekitha1000@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/vivekitha-velusamy-9a0591a3/  
 
 ---
 
-## ⚡ Fun Line  
+## ⚡ Engineering Philosophy
 
-> I build systems that work in real-time — not just code that compiles.
+> I build systems that operate reliably in real time — not just code that compiles.
